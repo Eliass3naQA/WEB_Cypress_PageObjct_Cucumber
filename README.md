@@ -1,7 +1,6 @@
 Teste Automatizado WEB com Cypress, Cucumber e PageObject
 Certifique se o Passo 2 até o passo 4 já esteja ok caso não, siga eles normalmente. 
 
-Configuração de ambiente
   1º Clone do projeto;
     Clone esse projeto em um diretorio da sua preferencia na sua maquina e abra em uma IDE de sua preferenfencia(Aqui utilizei o VS code).
   
